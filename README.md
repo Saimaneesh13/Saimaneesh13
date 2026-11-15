@@ -118,3 +118,91 @@ LEARN · BUILD · EXPERIMENT · INNOVATE
 
 The next commit is always better.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B8860B,50:0A192F,100:060D1A&height=140&section=footer&text=LEARN%20%C2%B7%20BUILD%20%C2%B7%20EXPERIMENT%20%C2%B7%20INNOVATE&fontSize=18&fontColor=F5D76E&fontAlignY=70" alt="Navy and gold footer" /></div>
+
+<div align="center">
+
+  <!-- Dynamic Gold & Dark Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,19,24&height=180&section=header&text=SAI%20MANEESH&fontSize=55&fontColor=FFD700&fontAlignY=45&desc=AI%20%2F%20ML%20ENGINEER%20%E2%80%A2%20INTELLIGENT%20SYSTEMS%20BUILDER&descSize=16&descAlignY=70&descColor=E2E8F0" width="100%" alt="Sai Maneesh Banner" />
+
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=NLP+%7C+Computer+Vision+%7C+Deep+Learning;End-to-End+AI+%26+ML+Deployment;Turning+Complex+Data+into+Scalable+Systems" alt="Typing SVG" />
+  </a>
+
+  <h3><b>Engineering Intelligence. Building What Matters.</b></h3>
+
+  <!-- Quick Links & Social Badges -->
+  <p>
+    <a href="https://my-portfolio-ten-bice-53.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-VISIT%20SITE-F59E0B?style=for-the-badge&logo=vercel&logoColor=black&labelColor=1E293B" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/Saimaneesh13" target="_blank">
+      <img src="https://img.shields.io/github/followers/Saimaneesh13?label=GITHUB%20FOLLOW&style=for-the-badge&logo=github&color=0F172A&labelColor=1E293B" alt="GitHub Follow" />
+    </a>
+    <a href="https://www.linkedin.com/in/sai-maneesh" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E293B" alt="LinkedIn" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Saimaneesh13&label=PROFILE%20VIEWS&color=F59E0B&style=for-the-badge" alt="Profile Views" />
+  </p>
+
+</div>
+
+---
+
+### ✦ ABOUT ME
+
+I'm a **Computer Science and Engineering** student at **Lovely Professional University**, specializing in **Artificial Intelligence and Machine Learning**. I enjoy building practical AI applications, experimenting with deep learning architectures, and deploying end-to-end systems that solve real-world problems.
+
+* 🎓 **Education:** B.Tech in Computer Science & Engineering — *Lovely Professional University*
+* 🧠 **Specialization:** Artificial Intelligence, Machine Learning, Deep Learning, NLP & Computer Vision
+* 💼 **Experience:** Former Machine Learning Intern at **EduExpose** *(Best Performance Award)*
+* 🚀 **Current Focus:** Architecting and deploying production-ready ML microservices & interactive AI dashboards
+* 🌐 **Portfolio:** [my-portfolio-ten-bice-53.vercel.app](https://my-portfolio-ten-bice-53.vercel.app/)
+
+---
+
+### 🚀 LIVE AI DEPLOYMENTS & FEATURED PROJECTS
+
+| Project | Core Stack | Overview | Live App |
+| :--- | :--- | :--- | :---: |
+| **🛡️ Aegis Command**<br>*(AI Disaster Intelligence)* | `BERTopic` `LDA` `FastAPI` `Streamlit` | Hybrid NLP pipeline and real-time analytics dashboard for disaster intelligence and topic modeling. | [![Launch App](https://img.shields.io/badge/LIVE_DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://aegis-command.streamlit.app/) |
+| **🌿 AgroDetect AI**<br>*(Crop Disease Classifier)* | `TensorFlow` `Keras` `FastAPI` `Streamlit` | CNN-based computer vision system achieving 90%+ accuracy in automated plant pathology detection. | [![Launch App](https://img.shields.io/badge/LIVE_DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://agrodetectai.streamlit.app/) |
+| **👤 Face Recognition**<br>*(Smart Attendance System)* | `OpenCV` `Flask` `SQLite` `Bootstrap 5` | Real-time biometric computer vision pipeline with automated attendance logging and web dashboard. | [![Launch App](https://img.shields.io/badge/LIVE_DEMO-46E3B7?style=for-the-badge&logo=render&logoColor=black)](https://facerecognitionattendance-9rc8.onrender.com/) |
+| **⚡ Personal Portfolio**<br>*(Developer Showcase)* | `Web` `UI/UX` `Vercel` | Interactive showcase of my engineering projects, certifications, technical skills, and journey. | [![Visit Site](https://img.shields.io/badge/VISIT_SITE-F59E0B?style=for-the-badge&logo=vercel&logoColor=black)](https://my-portfolio-ten-bice-53.vercel.app/) |
+
+---
+
+### 🛠️ TECH STACK & ARSENAL
+
+<div align="center">
+
+  **Languages & Core**
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,sql,bash,git,github,vscode&theme=dark" alt="Core Stack" />
+
+  **AI, Machine Learning & Data Science**
+  <br>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI Stack" />
+  <br>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/BERTopic_%2F_NLP-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+
+  **Backend, Deployment & Web**
+  <br>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,bootstrap,sqlite,vercel,linux&theme=dark" alt="Web & Cloud" />
+  <br>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
+
+</div>
+
+---
+
+### 📊 GITHUB ANALYTICS
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Saimaneesh13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F59E0B&icon_color=F59E0B" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Saimaneesh13&theme=tokyonight&hide_border=true&background=0D1117&stroke=F59E0B&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" />
+</div>
