@@ -13,7 +13,7 @@
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=2)
+---
 
 ### ◈ ABOUT ME
 
@@ -38,7 +38,11 @@ class SaiManeesh:
         self.specialization = "Artificial Intelligence & Machine Learning"
         self.university = "Lovely Professional University"
         self.portfolio = "my-portfolio-ten-bice-53.vercel.app"
-
+        self.deployments = [
+            "aegis-command.streamlit.app",
+            "agrodetectai.streamlit.app",
+            "facerecognitionattendance-9rc8.onrender.com",
+        ]
         self.interests = [
             "Machine Learning",
             "Deep Learning",
@@ -55,7 +59,7 @@ me = SaiManeesh()
 print(me.mission())
 ~~~
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=2)
+---
 
 ### ◈ TECHNICAL ARSENAL
 
@@ -85,7 +89,7 @@ print(me.mission())
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=2)
+---
 
 ### ◈ FEATURED PROJECTS & LIVE DEPLOYMENTS
 
@@ -145,7 +149,7 @@ A neon-themed arcade stunt-driving game set in a futuristic cyberpunk environmen
 * Boost pads, ramps, checkpoints, and combo scoring HUD.
 * *Project showcase — repository link will be added when published.*
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=2)
+---
 
 ### ◈ CERTIFICATION
 
@@ -156,28 +160,22 @@ A neon-themed arcade stunt-driving game set in a futuristic cyberpunk environmen
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=2)
+---
 
-### ◈ GITHUB ANALYTICS
+### ◈ GITHUB ANALYTICS & ACTIVITY
 
 <div align="center">
-
-![GitHub statistics](https://github-readme-stats.vercel.app/api?username=Saimaneesh13&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0A192F&title_color=D4AF37&icon_color=D4AF37&text_color=E6EDF7&rank_icon=github)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimaneesh13&layout=compact&langs_count=8&hide_border=true&bg_color=0A192F&title_color=D4AF37&text_color=E6EDF7)
 
 ![GitHub contribution streak](https://streak-stats.demolab.com?user=Saimaneesh13&theme=dark&hide_border=true&background=0A192F&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=E6EDF7&dates=8FA3C0)
 
-</div>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saimaneesh13&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saimaneesh13&theme=tokyonight)
 
-### ◈ CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-![GitHub contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Saimaneesh13&bg_color=0A192F&color=D4AF37&line=D4AF37&point=F5D76E&area=true&hide_border=true&custom_title=Contribution%20Activity)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saimaneesh13&theme=tokyonight)
 
 </div>
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=2)
+---
 
 ### ◈ CURRENTLY EXPLORING
 
@@ -186,7 +184,7 @@ A neon-themed arcade stunt-driving game set in a futuristic cyberpunk environmen
 * Computer Vision and intelligent visual systems.
 * Building and deploying scalable, production-ready AI applications.
 
-![Divider](https://capsule-render.vercel.app/api?type=rect&color=0:0A192F,50:D4AF37,100:0A192F&height=2)
+---
 
 ### ◈ CONNECT
 
