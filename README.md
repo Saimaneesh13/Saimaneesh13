@@ -29,35 +29,35 @@ I enjoy building practical AI applications, experimenting with machine learning 
 * 💡 **Mission:** Build intelligent systems that solve real-world problems
 * 🌐 **Portfolio:** [my-portfolio-ten-bice-53.vercel.app](https://my-portfolio-ten-bice-53.vercel.app/)
 
-~~~python
-class SaiManeesh:
-    def __init__(self):
-        self.name = "Sai Maneesh"
-        self.role = "AI / ML Engineer"
-        self.education = "B.Tech, Computer Science & Engineering"
-        self.specialization = "Artificial Intelligence & Machine Learning"
-        self.university = "Lovely Professional University"
-        self.portfolio = "my-portfolio-ten-bice-53.vercel.app"
-        self.deployments = [
-            "aegis-command.streamlit.app",
-            "agrodetectai.streamlit.app",
-            "facerecognitionattendance-9rc8.onrender.com",
-        ]
-        self.interests = [
-            "Machine Learning",
-            "Deep Learning",
-            "Natural Language Processing",
-            "Computer Vision",
-            "Intelligent Applications",
-        ]
+<!-- 4-space indented code block so Copy never cuts off -->
 
-    def mission(self):
-        return "Build intelligent systems that solve real-world problems."
+    class SaiManeesh:
+        def __init__(self):
+            self.name = "Sai Maneesh"
+            self.role = "AI / ML Engineer"
+            self.education = "B.Tech, Computer Science & Engineering"
+            self.specialization = "Artificial Intelligence & Machine Learning"
+            self.university = "Lovely Professional University"
+            self.portfolio = "my-portfolio-ten-bice-53.vercel.app"
+            self.deployments = [
+                "aegis-command.streamlit.app",
+                "agrodetectai.streamlit.app",
+                "facerecognitionattendance-9rc8.onrender.com",
+            ]
+            self.interests = [
+                "Machine Learning",
+                "Deep Learning",
+                "Natural Language Processing",
+                "Computer Vision",
+                "Intelligent Applications",
+            ]
+
+        def mission(self):
+            return "Build intelligent systems that solve real-world problems."
 
 
-me = SaiManeesh()
-print(me.mission())
-~~~
+    me = SaiManeesh()
+    print(me.mission())
 
 ---
 
