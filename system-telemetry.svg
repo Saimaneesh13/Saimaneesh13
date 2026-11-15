@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 230" width="860" height="230">
+  <style>
+    .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.2px; }
+    .bar { fill: #161b22; }
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 11.5px; fill: #c9d1d9; }
+    .title { fill: #8b949e; font-size: 11.5px; }
+    .sec { fill: #f5d76e; font-weight: 600; font-size: 12px; }
+    .k { fill: #58a6ff; font-weight: 600; }
+    .ok { fill: #39d353; font-weight: 600; }
+    .muted { fill: #8b949e; }
+    .track { fill: #21262d; }
+    .fill-g { fill: #2ea043; animation: grow 1.1s ease-out forwards; transform-origin: left; }
+    .fill-b { fill: #1f6feb; animation: grow 1.3s ease-out forwards; transform-origin: left; }
+    .fill-p { fill: #8957e5; animation: grow 1.5s ease-out forwards; transform-origin: left; }
+    .fill-y { fill: #d29922; animation: grow 1.7s ease-out forwards; transform-origin: left; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <rect class="bg" x="0.6" y="0.6" width="858.8" height="228.8" rx="10"/>
+  <path class="bar" d="M 1.2 10 Q 1.2 1.2 10 1.2 L 850 1.2 Q 858.8 1.2 858.8 10 L 858.8 30 L 1.2 30 Z"/>
+  <circle cx="16" cy="15" r="5" fill="#ff5f56"/>
+  <circle cx="32" cy="15" r="5" fill="#ffbd2e"/>
+  <circle cx="48" cy="15" r="5" fill="#27c93f"/>
+  <text x="310" y="19" class="title">htop — ai_telemetry &amp; verified_credentials</text>
+
+  <!-- Left Column: AI Domain Telemetry Bars -->
+  <text x="24" y="54" class="sec">◈ CORE AI / ML TELEMETRY</text>
+
+  <text x="24" y="80" class="k">01 · Machine Learning &amp; Deep Learning</text>
+  <text x="368" y="80" class="ok">94%</text>
+  <rect class="track" x="24" y="87" width="370" height="8" rx="4"/>
+  <rect class="fill-g" x="24" y="87" width="348" height="8" rx="4"/>
+
+  <text x="24" y="114" class="k">02 · Computer Vision (CNNs, OpenCV)</text>
+  <text x="368" y="114" class="ok">92%</text>
+  <rect class="track" x="24" y="121" width="370" height="8" rx="4"/>
+  <rect class="fill-b" x="24" y="121" width="340" height="8" rx="4"/>
+
+  <text x="24" y="148" class="k">03 · NLP &amp; Topic Modeling (BERTopic/LLM)</text>
+  <text x="368" y="148" class="ok">90%</text>
+  <rect class="track" x="24" y="155" width="370" height="8" rx="4"/>
+  <rect class="fill-p" x="24" y="155" width="333" height="8" rx="4"/>
+
+  <text x="24" y="182" class="k">04 · Backend &amp; Cloud MLOps (FastAPI/Web)</text>
+  <text x="368" y="182" class="ok">88%</text>
+  <rect class="track" x="24" y="189" width="370" height="8" rx="4"/>
+  <rect class="fill-y" x="24" y="189" width="325" height="8" rx="4"/>
+
+  <line x1="425" y1="42" x2="425" y2="212" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Right Column: Verified Credentials & Awards -->
+  <text x="448" y="54" class="sec">◈ VERIFIED CERTIFICATIONS &amp; HONORS</text>
+
+  <text x="448" y="82"><tspan class="ok">[✓]</tspan> <tspan font-weight="600">Oracle Cloud Infrastructure 2025 AI Foundations</tspan></text>
+  <text x="476" y="98" class="muted">Certified Associate  •  Score: 95%  •  Oracle</text>
+
+  <text x="448" y="124"><tspan class="ok">[✓]</tspan> <tspan font-weight="600">Machine Learning Intern — Best Performance Award</tspan></text>
+  <text x="476" y="140" class="muted">EduExpose  •  Production ML Pipeline Delivery</text>
+
+  <text x="448" y="166"><tspan class="ok">[✓]</tspan> <tspan font-weight="600">Interpersonal Communication for Eng. Leaders</tspan></text>
+  <text x="476" y="182" class="muted">Rice University (Coursera)  •  Engineering Leadership</text>
+
+  <text x="448" y="206"><tspan class="ok">[✓]</tspan> <tspan font-weight="600">Computational Theory &amp; Computer Communications</tspan></text>
+  <text x="476" y="220" class="muted">Infosys Springboard &amp; Univ. of Colorado (4-Course Spec.)</text>
+</svg>
